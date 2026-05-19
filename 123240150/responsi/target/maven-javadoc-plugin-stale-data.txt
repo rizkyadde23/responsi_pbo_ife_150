@@ -1,0 +1,54 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+--release
+21
+-sourcepath
+'C:/Users/Lab Informatika/Documents/123240150/responsi/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Lab Informatika/Documents/123240150/responsi/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'responsi 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'responsi 1.0-SNAPSHOT API'
+com.pbo.responsi.config
+com.pbo.responsi.dto
+com.pbo.responsi.model
+com.pbo.responsi
+com.pbo.responsi.service
+com.pbo.responsi.view
+C:\Users\Lab Informatika\Documents\123240150\responsi\src\main\java = 1779182950261
+C:\Users\Lab Informatika\Documents\123240150\responsi\target\reports\apidocs\allclasses-index.html = 1779184595153
+C:\Users\Lab Informatika\Documents\123240150\responsi\target\reports\apidocs\allpackages-index.html = 1779184595153
+C:\Users\Lab Informatika\Documents\123240150\responsi\target\reports\apidocs\copy.svg = 1779184595216
+C:\Users\Lab Informatika\Documents\123240150\responsi\target\reports\apidocs\element-list = 1779184594807
+C:\Users\Lab Informatika\Documents\123240150\responsi\target\reports\apidocs\help-doc.html = 1779184595200
+C:\Users\Lab Informatika\Documents\123240150\responsi\target\reports\apidocs\index-all.html = 1779184595185
+C:\Users\Lab Informatika\Documents\123240150\responsi\target\reports\apidocs\index.html = 1779184595122
+C:\Users\Lab Informatika\Documents\123240150\responsi\target\reports\apidocs\link.svg = 1779184595216
+C:\Users\Lab Informatika\Documents\123240150\responsi\target\reports\apidocs\member-search-index.js = 1779184595153
+C:\Users\Lab Informatika\Documents\123240150\responsi\target\reports\apidocs\module-search-index.js = 1779184595153
+C:\Users\Lab Informatika\Documents\123240150\responsi\target\reports\apidocs\overview-summary.html = 1779184595185
+C:\Users\Lab Informatika\Documents\123240150\responsi\target\reports\apidocs\overview-tree.html = 1779184595122
+C:\Users\Lab Informatika\Documents\123240150\responsi\target\reports\apidocs\package-search-index.js = 1779184595153
+C:\Users\Lab Informatika\Documents\123240150\responsi\target\reports\apidocs\script.js = 1779184595200
+C:\Users\Lab Informatika\Documents\123240150\responsi\target\reports\apidocs\search-page.js = 1779184595231
+C:\Users\Lab Informatika\Documents\123240150\responsi\target\reports\apidocs\search.html = 1779184595185
+C:\Users\Lab Informatika\Documents\123240150\responsi\target\reports\apidocs\search.js = 1779184595231
+C:\Users\Lab Informatika\Documents\123240150\responsi\target\reports\apidocs\serialized-form.html = 1779184594997
+C:\Users\Lab Informatika\Documents\123240150\responsi\target\reports\apidocs\stylesheet.css = 1779184595200
+C:\Users\Lab Informatika\Documents\123240150\responsi\target\reports\apidocs\tag-search-index.js = 1779184595153
+C:\Users\Lab Informatika\Documents\123240150\responsi\target\reports\apidocs\type-search-index.js = 1779184595153
